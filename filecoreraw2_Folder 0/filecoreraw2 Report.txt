@@ -1,0 +1,62 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: filecoreraw2.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: millimeters
+Artboard Dimensions: 297 mm x 210 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 131 CVU (CMYK)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Athelas Regular (TrueType)
+Cambria (TrueType)
+Cambria Bold (OTF)
+Times New Roman Bold (OTF)
+Times New Roman (OTF)
+UTM Davida (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\Me\01phaiquyy\des-quy-y\filecoreraw2_Folder\Links\Duc-Phat-Thich-Ca.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 8473K, 1135 by 1529 pixels
+Dimensions: 223.059 by 300.491 points 
+Resolution: 366.361 by 366.361 pixels per inch
+
+
+D:\Me\01phaiquyy\des-quy-y\filecoreraw2_Folder\Links\z4095352314175_44fdc143c1ea43c836ff80e392bf6336 (1).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 8970K, 1196 by 2560 pixels
+Dimensions: 1355.542 by 696.206 points 
+Resolution: 63.526 by 264.749 pixels per inch
